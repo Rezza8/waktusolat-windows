@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SolatWaktu.Core/SolatWaktu.Core.csproj" />
+    <Project Path="src/SolatWaktu.Widget/SolatWaktu.Widget.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SolatWaktu.Core.Tests/SolatWaktu.Core.Tests.csproj" />
+  </Folder>
+</Solution>

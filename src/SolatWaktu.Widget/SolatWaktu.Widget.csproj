@@ -11,9 +11,9 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <ApplicationIcon>Assets\app.ico</ApplicationIcon>
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
-    <Version>1.0.0</Version>
-    <FileVersion>1.0.0.0</FileVersion>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <Version>1.0.1</Version>
+    <FileVersion>1.0.1.0</FileVersion>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <Product>Solat Waktu Widget</Product>
     <Company>Solat Waktu</Company>
     <Description>Widget waktu solat Malaysia untuk Windows 11</Description>
@@ -32,7 +32,7 @@
     <EmbeddedResource Include="Assets\app.ico" LogicalName="SolatWaktu.Widget.Assets.app.ico" />
     <EmbeddedResource Include="Assets\azan-short.mp3" LogicalName="SolatWaktu.Widget.Assets.azan-short.mp3" />
     <EmbeddedResource Include="Assets\azan-long.mp3" LogicalName="SolatWaktu.Widget.Assets.azan-long.mp3" />
-    <EmbeddedResource Include="Assets\mosque-purple.jpg" LogicalName="SolatWaktu.Widget.Assets.mosque-purple.jpg" />
+    <EmbeddedResource Include="Assets\mosque-green.png" LogicalName="SolatWaktu.Widget.Assets.mosque-green.png" />
   </ItemGroup>
 
 </Project>

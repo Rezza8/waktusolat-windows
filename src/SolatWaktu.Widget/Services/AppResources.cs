@@ -7,7 +7,7 @@ namespace SolatWaktu.Widget.Services;
 internal static class AppResources
 {
     private const string IconResource = "SolatWaktu.Widget.Assets.app.ico";
-    private const string MosqueResource = "SolatWaktu.Widget.Assets.mosque-purple.jpg";
+    private const string MosqueResource = "SolatWaktu.Widget.Assets.mosque-green.png";
 
     private static readonly Lazy<Bitmap?> MosqueImage = new(LoadMosqueImage);
     private static readonly Lazy<string> HeadingFamily = new(() => ResolveFamily("Segoe UI Variable Display"));

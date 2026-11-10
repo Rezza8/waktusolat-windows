@@ -19,7 +19,7 @@ Widget desktop terapung yang memaparkan waktu solat Malaysia secara langsung dar
 - **Format 12 jam** menggunakan akhiran `AM`/`PM`.
 - **Notifikasi desktop** tersendiri untuk setiap waktu solat.
 - **Azan** pendek atau panjang dengan pelarasan kelantangan dan pilihan waktu.
-- **Ikon tray ungu ringkas** dengan menu klik kanan, sembunyi ke tray, dan buka semula.
+- **Ikon masjid hijau** pada aplikasi, tray dan notifikasi, dengan menu klik kanan, sembunyi ke tray, dan buka semula.
 - **Mula bersama Windows** melalui tetapan aplikasi.
 - **Sentiasa di atas**, pin, snap ke tepi skrin, dan ingat kedudukan terakhir.
 - **Satu contoh sahaja** berjalan; melancarkan semula aplikasi akan memunculkan widget sedia ada.
@@ -33,7 +33,7 @@ Widget desktop terapung yang memaparkan waktu solat Malaysia secara langsung dar
 
 ## Pemasangan
 
-1. Jalankan `dist\SolatWaktuWidget-Setup-1.0.0.exe`.
+1. Jalankan `dist\SolatWaktuWidget-Setup-1.0.1.exe`.
 2. Ikut wizard pemasangan. Pemasangan adalah untuk pengguna semasa dan tidak memerlukan hak pentadbir.
 3. Pilih zon JAKIM anda semasa pelancaran pertama.
 4. Widget akan muncul di penjuru kanan bawah skrin.
